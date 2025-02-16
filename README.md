@@ -2,7 +2,7 @@
 
 O projeto tem como objetivo a criação de um componente de abas interativas. Ao clicar em uma das abas, o conteúdo relacionado aparece magicamente, enquanto o conteúdo das outras abas é escondido. No desenvolvimento deste componente, mergulhamos em conceitos essenciais de JavaScript e CSS, explorando funcionalidades dinâmicas e estilizações modernas para tornar a interação ainda mais interessante
 
-você pode acessar o projeto [clicando aqui]()
+você pode acessar o projeto [clicando aqui](https://tabs-interativas.netlify.app/)
 
 ## Tecnologias Utilizadas
 
